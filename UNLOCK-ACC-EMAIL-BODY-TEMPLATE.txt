@@ -1,0 +1,16 @@
+Hi 	{FNAME},  {LNAME}	 :
+<br/>
+Welcome to HIS family, Your registration is almost done. Please use below details to unlock.
+<br/>
+
+Temporary Password  :  {TEMP-PWD}<br/>
+<br/>
+
+<a href='http://localhost:8058/HIS-App/unlockAcc?email={EMAIL}'>Click Here To Unlock Your Account </a> <br/>
+
+<br/>
+Thanks & Regards,<br/>
+HIS Team.<br/>
+ 
+
+

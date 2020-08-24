@@ -1,0 +1,9 @@
+INSERT INTO ROLES_MASTER VALUES(1,'Case Worker');
+INSERT INTO ROLES_MASTER VALUES(2,'Admin');
+
+
+
+
+
+
+
